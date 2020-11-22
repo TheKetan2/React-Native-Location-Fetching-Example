@@ -8,4 +8,6 @@ Our Final App will look like this:
 
 It shows the current coordinates and the sub-region
 
-PS: If you want to use `reverseGeocodeAsync()` then don't forget to get your Maps API Key from google. Without API key, `reverseGeocodeAsync()` wont work.
+PS: If you want to use `reverseGeocodeAsync()` then don't forget to get your Maps API Key from google.
+
+Without API key, `reverseGeocodeAsync()` wont work.
