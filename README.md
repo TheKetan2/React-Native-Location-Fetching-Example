@@ -4,7 +4,7 @@ Here is an example demonstrating how we can track the current location of the de
 
 Our Final App will look like this:
 
-![]("assets/Opera Snapshot_2020-11-22_140140_snack.expo.io.png")
+![](assets/screen.png)
 
 It shows the current coordinates and the sub-region
 
